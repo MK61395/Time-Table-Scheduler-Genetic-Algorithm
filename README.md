@@ -80,7 +80,7 @@ The final timetable achieved a fitness score of 100 out of a maximum possible sc
 
 ## Conclusion
 
-This project successfully implemented a genetic algorithm to automate the timetable scheduling process, addressing key challenges and achieving optimized schedules for academic institutions.
+This project successfully implemented a genetic algorithm to automate the timetable scheduling process, addressing key challenges and achieving optimized schedules for academic institutions. For result and otput, please refer to the attached PDF.
 
 ## Contributions
 
