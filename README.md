@@ -84,9 +84,8 @@ This project successfully implemented a genetic algorithm to automate the timeta
 
 ## Output and Results
 
-Some sample outputs have been attached below:
-![Image 1](https://raw.githubusercontent.com/MK61395/Time-Table-Scheduler-Genetic-Algorithm/main/1.png)
-![Image 2](https://raw.githubusercontent.com/MK61395/Time-Table-Scheduler-Genetic-Algorithm/main/2.png)
+![Result](https://raw.githubusercontent.com/MK61395/Time-Table-Scheduler-Genetic-Algorithm/main/1.png)
+![Otput](https://raw.githubusercontent.com/MK61395/Time-Table-Scheduler-Genetic-Algorithm/main/2.png)
 
 ## Contributions
 
